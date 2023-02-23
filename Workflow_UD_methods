@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-23T17:01:05.419Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.50" etag="Po0Wyi5ZLjEs8Kc6OL1x" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-23T17:01:54.038Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.50" etag="eOFgXbGhXrTi87Q0_d8b" version="20.8.20" type="github">
   <diagram name="Seite-1" id="41qU8Qnhm4Aw_8Cju0cD">
     <mxGraphModel dx="989" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -38,7 +38,7 @@
         <mxCell id="ZkfC4pa40GlYOBjvUiKU-8" value="Pre-processing" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;glass=0;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="1565" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZkfC4pa40GlYOBjvUiKU-9" value="Blob Detection" style="whiteSpace=wrap;html=1;fontSize=20;rounded=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="1">
+        <mxCell id="ZkfC4pa40GlYOBjvUiKU-9" value="Fibre Detection" style="whiteSpace=wrap;html=1;fontSize=20;rounded=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="1382" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZkfC4pa40GlYOBjvUiKU-12" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=20;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shadow=1;" edge="1" parent="1" source="ZkfC4pa40GlYOBjvUiKU-9" target="ZkfC4pa40GlYOBjvUiKU-15">
