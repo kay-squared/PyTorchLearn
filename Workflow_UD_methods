@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-23T11:06:55.389Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.50" etag="QkHXoUtoGoFZi86PbK7j" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-23T13:25:10.026Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.50" etag="SlTu8YzfGOvuZKpHteBJ" version="20.8.20" type="github">
   <diagram name="Seite-1" id="41qU8Qnhm4Aw_8Cju0cD">
-    <mxGraphModel dx="1153" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="855" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -83,7 +83,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZkfC4pa40GlYOBjvUiKU-24" value="Tape area" style="whiteSpace=wrap;html=1;fontSize=20;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="1121" width="120" height="60" as="geometry" />
+          <mxGeometry x="1190" y="1122" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZkfC4pa40GlYOBjvUiKU-25" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=20;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZkfC4pa40GlYOBjvUiKU-8" target="ZkfC4pa40GlYOBjvUiKU-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
