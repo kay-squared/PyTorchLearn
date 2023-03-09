@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-09T17:22:50.747Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63" etag="LSJrK9gc6vuYZFZnKw5b" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-09T17:55:13.139Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63" etag="XHoZSrSUBwNBbpv8STlC" version="20.8.23" type="github">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
     <mxGraphModel dx="987" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -71,14 +71,9 @@
             <mxGeometry x="1" y="30" width="138" height="412" as="geometry" />
           </mxCell>
         </object>
-        <object label="&lt;font style=&quot;&quot;&gt;3.1 Communication strategy&lt;/font&gt;" placeholders="1" id="RxfqTJ2npVJ7gb6i_7Rk-25">
+        <object label="&lt;font style=&quot;&quot;&gt;3.1. Knowledge management Strategy&lt;/font&gt;" placeholders="1" id="RxfqTJ2npVJ7gb6i_7Rk-26">
           <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d5e8d4;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];sketch=1;fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#82b366;" vertex="1" parent="RxfqTJ2npVJ7gb6i_7Rk-24">
             <mxGeometry x="20" y="21" width="98" height="49" as="geometry" />
-          </mxCell>
-        </object>
-        <object label="&lt;font style=&quot;&quot;&gt;3.2. Knowledge management Strategy&lt;/font&gt;" placeholders="1" id="RxfqTJ2npVJ7gb6i_7Rk-26">
-          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d5e8d4;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];sketch=1;fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#82b366;" vertex="1" parent="RxfqTJ2npVJ7gb6i_7Rk-24">
-            <mxGeometry x="20" y="90" width="98" height="49" as="geometry" />
           </mxCell>
         </object>
         <object label="" status="Completed" id="RxfqTJ2npVJ7gb6i_7Rk-21">
