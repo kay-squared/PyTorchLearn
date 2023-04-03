@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2023-04-03T10:39:31.429Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" version="21.0.6" etag="PTGnsukJ5bfdy8bkAljG" type="github"><diagram name="Seite-1" id="_HHKuhanuKDP60WSk9tr">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-04-03T11:28:00.772Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="QdxoxFDOTLpMXG-qYQkJ" version="21.0.6" type="github">
+  <diagram name="Seite-1" id="_HHKuhanuKDP60WSk9tr">
+    <mxGraphModel dx="993" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7Cz0qZuMaevzZS2dd_P1-37" value="" style="ellipse;html=1;strokeWidth=4;fillColor=#23445D;strokeColor=none;shadow=0;fontSize=10;fontColor=#FFFFFF;align=center;fontStyle=0;whiteSpace=wrap;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="40" y="100" width="400" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="7Cz0qZuMaevzZS2dd_P1-38" value="" style="ellipse;html=1;strokeWidth=4;fillColor=#2F5B7C;strokeColor=none;shadow=0;fontSize=10;fontColor=#FFFFFF;align=center;fontStyle=0;whiteSpace=wrap;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="65" y="125" width="350" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="7Cz0qZuMaevzZS2dd_P1-39" value="" style="ellipse;html=1;strokeWidth=4;fillColor=#5D7F99;strokeColor=none;shadow=0;fontSize=10;fontColor=#FFFFFF;align=center;fontStyle=0;whiteSpace=wrap;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="90" y="150" width="300" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="7Cz0qZuMaevzZS2dd_P1-40" value="" style="ellipse;html=1;strokeWidth=4;fillColor=#BAC8D3;strokeColor=none;shadow=0;fontSize=10;fontColor=#FFFFFF;align=center;fontStyle=0;whiteSpace=wrap;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="115" y="175" width="250" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="7Cz0qZuMaevzZS2dd_P1-41" value="" style="ellipse;html=1;strokeWidth=4;fillColor=#fbdab1;strokeColor=none;shadow=0;fontSize=10;fontColor=#FFFFFF;align=center;fontStyle=0;whiteSpace=wrap;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="140" y="200" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="7Cz0qZuMaevzZS2dd_P1-42" value="" style="ellipse;html=1;strokeWidth=4;fillColor=#F8C382;strokeColor=none;shadow=0;fontSize=10;fontColor=#FFFFFF;align=center;fontStyle=0;whiteSpace=wrap;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="165" y="225" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="7Cz0qZuMaevzZS2dd_P1-43" value="Sustain-ability" style="ellipse;html=1;strokeWidth=4;fillColor=#F5AB50;strokeColor=none;shadow=0;fontSize=20;fontColor=#FFFFFF;align=center;fontStyle=1;whiteSpace=wrap;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="190" y="250" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="7Cz0qZuMaevzZS2dd_P1-44" value="Life Cycle Perspective" style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=0;notch2=20;fillColor=#F5AB50;strokeColor=none;align=right;verticalAlign=middle;fontColor=#ffffff;fontSize=14;fontStyle=1;shadow=0;spacingRight=25;" vertex="1" parent="1">
+          <mxGeometry x="240" y="325" width="300" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="7Cz0qZuMaevzZS2dd_P1-45" value="Green principles" style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=0;notch2=20;fillColor=#F8C382;strokeColor=none;align=right;verticalAlign=middle;fontColor=#ffffff;fontSize=14;fontStyle=1;shadow=0;spacingRight=25;" vertex="1" parent="1">
+          <mxGeometry x="240" y="350" width="340" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="7Cz0qZuMaevzZS2dd_P1-46" value="Novel pathways" style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=0;notch2=20;fillColor=#fbdab1;strokeColor=none;align=right;verticalAlign=middle;fontColor=#ffffff;fontSize=14;fontStyle=1;shadow=0;spacingRight=25;" vertex="1" parent="1">
+          <mxGeometry x="240" y="375" width="380" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="7Cz0qZuMaevzZS2dd_P1-47" value="Secure Data Sharing" style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=0;notch2=20;fillColor=#BAC8D3;strokeColor=none;align=right;verticalAlign=middle;fontColor=#ffffff;fontSize=14;fontStyle=1;shadow=0;spacingRight=25;" vertex="1" parent="1">
+          <mxGeometry x="240" y="400" width="420" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="7Cz0qZuMaevzZS2dd_P1-48" value="Cohmprehensive view: Value Chain" style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=0;notch2=20;fillColor=#5D7F99;strokeColor=none;align=right;verticalAlign=middle;fontColor=#ffffff;fontSize=14;fontStyle=1;shadow=0;spacingRight=25;" vertex="1" parent="1">
+          <mxGeometry x="240" y="425" width="460" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="7Cz0qZuMaevzZS2dd_P1-49" value="Process optimization and Design" style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=0;notch2=20;fillColor=#2F5B7C;strokeColor=none;align=right;verticalAlign=middle;fontColor=#ffffff;fontSize=14;fontStyle=1;shadow=0;spacingRight=25;" vertex="1" parent="1">
+          <mxGeometry x="240" y="450" width="500" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="7Cz0qZuMaevzZS2dd_P1-50" value="Digitalization" style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=0;notch2=20;fillColor=#23445D;strokeColor=none;align=right;verticalAlign=middle;fontColor=#ffffff;fontSize=14;fontStyle=1;shadow=0;spacingRight=25;" vertex="1" parent="1">
+          <mxGeometry x="240" y="475" width="540" height="25" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
