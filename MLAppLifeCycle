@@ -1,9 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2023-05-30T17:35:27.250Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" version="21.3.2" etag="rDm7Qy26a_TNgkXaK8lp" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-30T17:43:55.130Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="kVvEm5j5BMA8AeZgaOMW" version="21.3.2" type="github">
   <diagram name="Seite-1" id="61XWpF9umahW2jNAkdKq">
-    <mxGraphModel>
+    <mxGraphModel dx="1453" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="C7a_aly2IoWSEH43Emyt-1" value="Define&lt;br&gt;Project" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Courier New;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="60" y="290" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="C7a_aly2IoWSEH43Emyt-2" value="Scoping" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Courier New;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="60" y="220" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C7a_aly2IoWSEH43Emyt-3" value="Define Data&lt;br style=&quot;font-size: 15px;&quot;&gt;Baseline" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Courier New;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="240" y="290" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="C7a_aly2IoWSEH43Emyt-4" value="Data Quality:&lt;br style=&quot;font-size: 15px;&quot;&gt;Label &lt;br&gt;&amp;amp; Organize" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Courier New;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="420" y="290" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="C7a_aly2IoWSEH43Emyt-5" value="Model &lt;br&gt;development&lt;br style=&quot;font-size: 15px;&quot;&gt;&amp;amp; training" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Courier New;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="600" y="290" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="C7a_aly2IoWSEH43Emyt-6" value="Performance&lt;br style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp; Error Analysis" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Courier New;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="780" y="290" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="C7a_aly2IoWSEH43Emyt-7" value="Deploy in&amp;nbsp;&lt;br style=&quot;font-size: 15px;&quot;&gt;Production" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Courier New;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="960" y="290" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="C7a_aly2IoWSEH43Emyt-8" value="Monitoring &lt;br style=&quot;font-size: 15px;&quot;&gt;&amp;amp; Maitenance" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Courier New;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="290" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="C7a_aly2IoWSEH43Emyt-9" value="Scoping" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Courier New;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="240" y="220" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C7a_aly2IoWSEH43Emyt-10" value="Modelling" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Courier New;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="599" y="220" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C7a_aly2IoWSEH43Emyt-11" value="Deployment" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Courier New;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="957" y="219" width="360" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
