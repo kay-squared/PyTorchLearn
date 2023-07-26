@@ -1,9 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2023-07-26T03:50:30.407Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82" version="21.6.2" etag="DVUS6IzEvLlaOxHjpxup" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-26T04:04:50.551Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82" etag="QRHmdUQ0j_fZm9Hjkxwd" version="21.6.2" type="github">
   <diagram name="Seite-1" id="C-WMor5DHDqegc5S_RPe">
-    <mxGraphModel>
+    <mxGraphModel dx="1160" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="aXfv-g5QXTV-o-2uFjOO-1" value="" style="shape=mxgraph.signs.science.microscope;html=1;pointerEvents=1;fillColor=#f8cecc;strokeColor=#FF0000;verticalLabelPosition=bottom;verticalAlign=top;align=center;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="280" y="170" width="100" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="aXfv-g5QXTV-o-2uFjOO-2" value="" style="shape=mxgraph.signs.science.microscope;html=1;pointerEvents=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalLabelPosition=bottom;verticalAlign=top;align=center;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="430" y="120" width="100" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="aXfv-g5QXTV-o-2uFjOO-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconnice-vector-icon/31/Vector-icons_86-128.png" vertex="1" parent="1">
+          <mxGeometry x="200" y="370" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="aXfv-g5QXTV-o-2uFjOO-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/web-development-and-studio/512/17_Law_Action_auction_court_gavel_hammer_judge_legal-128.png" vertex="1" parent="1">
+          <mxGeometry x="416" y="410" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="aXfv-g5QXTV-o-2uFjOO-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/office-time/512/19-128.png;imageBackground=default;fillStyle=solid;" vertex="1" parent="1">
+          <mxGeometry x="750" y="100" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="aXfv-g5QXTV-o-2uFjOO-8" value="" style="shape=mxgraph.signs.science.microscope;html=1;pointerEvents=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalLabelPosition=bottom;verticalAlign=top;align=center;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="430" y="120" width="100" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="aXfv-g5QXTV-o-2uFjOO-13" value="" style="group;rotation=-60;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="690" y="290" width="120" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="aXfv-g5QXTV-o-2uFjOO-6" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;rotation=-60;" vertex="1" parent="aXfv-g5QXTV-o-2uFjOO-13">
+          <mxGeometry x="52" y="95" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aXfv-g5QXTV-o-2uFjOO-7" value="" style="shape=or;whiteSpace=wrap;html=1;rotation=-150;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="aXfv-g5QXTV-o-2uFjOO-13">
+          <mxGeometry x="81" y="50" width="10" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="aXfv-g5QXTV-o-2uFjOO-9" value="" style="shape=or;whiteSpace=wrap;html=1;rotation=-150;flipV=1;flipH=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="aXfv-g5QXTV-o-2uFjOO-13">
+          <mxGeometry x="133" y="80" width="10" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="aXfv-g5QXTV-o-2uFjOO-12" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=30;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="aXfv-g5QXTV-o-2uFjOO-13">
+          <mxGeometry x="-31" y="63" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
