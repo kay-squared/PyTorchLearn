@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-25T21:17:06.579Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.57" etag="LJLg9FPIsYDRCmyFcPs-" version="22.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-28T06:17:37.195Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.57" etag="ORsCyJl0r6afrmIQYyFR" version="22.0.7" type="github">
   <diagram name="Seite-1" id="xWN3o00qyPEZJ9LrFE_g">
-    <mxGraphModel dx="1357" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1324" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,22 +52,22 @@
         <mxCell id="ORXUa8jjNet1NgsHZWgc-39" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="30" y="154" width="630" height="324" as="geometry" />
         </mxCell>
-        <mxCell id="ORXUa8jjNet1NgsHZWgc-2" value="Tech Provider" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fontFamily=Rubik light;fontSize=16;" parent="ORXUa8jjNet1NgsHZWgc-39" vertex="1">
+        <mxCell id="ORXUa8jjNet1NgsHZWgc-2" value="Tech Provider" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fontFamily=Rubik light;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ORXUa8jjNet1NgsHZWgc-39" vertex="1">
           <mxGeometry x="50.4" y="70" width="126" height="76.07" as="geometry" />
         </mxCell>
-        <mxCell id="ORXUa8jjNet1NgsHZWgc-3" value="Maschinenbauer" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fontFamily=Rubik light;fontSize=16;" parent="ORXUa8jjNet1NgsHZWgc-39" vertex="1">
+        <mxCell id="ORXUa8jjNet1NgsHZWgc-3" value="Maschinenbauer" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fontFamily=Rubik light;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" parent="ORXUa8jjNet1NgsHZWgc-39" vertex="1">
           <mxGeometry x="264.6" y="70" width="126" height="76.07" as="geometry" />
         </mxCell>
         <mxCell id="ORXUa8jjNet1NgsHZWgc-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="ORXUa8jjNet1NgsHZWgc-39" source="ORXUa8jjNet1NgsHZWgc-2" target="ORXUa8jjNet1NgsHZWgc-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ORXUa8jjNet1NgsHZWgc-4" value="Clients" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fontFamily=Rubik light;fontSize=16;" parent="ORXUa8jjNet1NgsHZWgc-39" vertex="1">
+        <mxCell id="ORXUa8jjNet1NgsHZWgc-4" value="Clients" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fontFamily=Rubik light;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" parent="ORXUa8jjNet1NgsHZWgc-39" vertex="1">
           <mxGeometry x="453.6" y="70" width="126" height="76.07" as="geometry" />
         </mxCell>
         <mxCell id="ORXUa8jjNet1NgsHZWgc-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="ORXUa8jjNet1NgsHZWgc-39" source="ORXUa8jjNet1NgsHZWgc-3" target="ORXUa8jjNet1NgsHZWgc-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ORXUa8jjNet1NgsHZWgc-8" value="&lt;font face=&quot;Rubik light&quot; style=&quot;font-size: 18px;&quot;&gt;CHASE Digitalization: development of smart controllers&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="ORXUa8jjNet1NgsHZWgc-39" vertex="1">
+        <mxCell id="ORXUa8jjNet1NgsHZWgc-8" value="&lt;font face=&quot;Rubik light&quot; style=&quot;font-size: 18px;&quot;&gt;CHASE Digitalization: development of smart controllers&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#314354;fontColor=#050505;" parent="ORXUa8jjNet1NgsHZWgc-39" vertex="1">
           <mxGeometry y="225.73770491803276" width="630" height="45.147540983606554" as="geometry" />
         </mxCell>
         <mxCell id="ORXUa8jjNet1NgsHZWgc-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.4;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="ORXUa8jjNet1NgsHZWgc-39" source="ORXUa8jjNet1NgsHZWgc-8" target="ORXUa8jjNet1NgsHZWgc-3" edge="1">
@@ -91,7 +91,7 @@
         <mxCell id="ORXUa8jjNet1NgsHZWgc-12" value="&lt;font face=&quot;Rubik light&quot; style=&quot;font-size: 18px;&quot;&gt;CHASE Lab: Sandbox&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="ORXUa8jjNet1NgsHZWgc-39" vertex="1">
           <mxGeometry y="278.8524590163934" width="378" height="45.147540983606554" as="geometry" />
         </mxCell>
-        <mxCell id="ORXUa8jjNet1NgsHZWgc-14" value="&lt;font face=&quot;Rubik light&quot; style=&quot;font-size: 18px;&quot;&gt;CHASE Consulting&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="ORXUa8jjNet1NgsHZWgc-39" vertex="1">
+        <mxCell id="ORXUa8jjNet1NgsHZWgc-14" value="&lt;font face=&quot;Rubik light&quot; style=&quot;font-size: 18px;&quot;&gt;CHASE Consulting&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="ORXUa8jjNet1NgsHZWgc-39" vertex="1">
           <mxGeometry x="390.6" y="278.8524590163934" width="239.4" height="45.147540983606554" as="geometry" />
         </mxCell>
         <mxCell id="ORXUa8jjNet1NgsHZWgc-42" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0;exitY=0;exitDx=58;exitDy=0;exitPerimeter=0;" parent="ORXUa8jjNet1NgsHZWgc-39" source="ORXUa8jjNet1NgsHZWgc-2" target="ORXUa8jjNet1NgsHZWgc-4" edge="1">
