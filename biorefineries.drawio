@@ -1,9 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2023-10-25T15:06:29.263Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.57" version="22.0.7" etag="wmwnKxdf5xhHsFLeMZZA" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-28T06:17:21.524Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.57" etag="2q1zUFy0s2OM628eLoHH" version="22.0.7" type="github">
   <diagram name="Seite-1" id="zaw1jmgNEW9GkodB4aJ-">
-    <mxGraphModel>
+    <mxGraphModel dx="1324" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="0e6yeiC0jNFQ5ZSbrnJr-4" value="Co-products" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Rubik light;" vertex="1" parent="1">
+          <mxGeometry x="402.8" y="180.2" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0e6yeiC0jNFQ5ZSbrnJr-2" value="Waste" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Rubik light;" vertex="1" parent="1">
+          <mxGeometry x="270" y="260.2" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0e6yeiC0jNFQ5ZSbrnJr-16" value="Materials" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Rubik light;" vertex="1" parent="1">
+          <mxGeometry x="980" y="270.2" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0e6yeiC0jNFQ5ZSbrnJr-1" value="Biomass" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Rubik light;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="360" y="220.2" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0e6yeiC0jNFQ5ZSbrnJr-3" value="Residue" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Rubik light;" vertex="1" parent="1">
+          <mxGeometry x="360" y="304.2" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0e6yeiC0jNFQ5ZSbrnJr-6" value="Chemicals" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=18;fontFamily=Rubik light;" vertex="1" parent="1">
+          <mxGeometry x="610" y="270.2" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0e6yeiC0jNFQ5ZSbrnJr-7" value="Fuels" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=18;fontFamily=Rubik light;" vertex="1" parent="1">
+          <mxGeometry x="670" y="330.2" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0e6yeiC0jNFQ5ZSbrnJr-8" value="Commodities" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=18;fontFamily=Rubik light;" vertex="1" parent="1">
+          <mxGeometry x="570" y="360.2" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0e6yeiC0jNFQ5ZSbrnJr-9" value="Other stuff" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=18;fontFamily=Rubik light;" vertex="1" parent="1">
+          <mxGeometry x="645" y="414.2" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0e6yeiC0jNFQ5ZSbrnJr-10" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.forrst;fillColor=#27431F" vertex="1" parent="1">
+          <mxGeometry x="350" y="440" width="52.800000000000004" height="73.2" as="geometry" />
+        </mxCell>
+        <mxCell id="0e6yeiC0jNFQ5ZSbrnJr-11" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.forrst;fillColor=#27431F" vertex="1" parent="1">
+          <mxGeometry x="410" y="420.2" width="52.800000000000004" height="73.2" as="geometry" />
+        </mxCell>
+        <mxCell id="0e6yeiC0jNFQ5ZSbrnJr-12" value="Chemicals" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Rubik light;" vertex="1" parent="1">
+          <mxGeometry x="880" y="240.2" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0e6yeiC0jNFQ5ZSbrnJr-13" value="Pharma-ceuticals" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Rubik light;" vertex="1" parent="1">
+          <mxGeometry x="880" y="304.2" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0e6yeiC0jNFQ5ZSbrnJr-14" value="Food" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Rubik light;" vertex="1" parent="1">
+          <mxGeometry x="880" y="370.2" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0e6yeiC0jNFQ5ZSbrnJr-15" value="Energy" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Rubik light;" vertex="1" parent="1">
+          <mxGeometry x="790" y="200.2" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
