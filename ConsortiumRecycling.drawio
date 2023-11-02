@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T16:05:27.692Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.76" etag="oJ3_a7isR6yHA6N0LCZt" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-02T16:05:51.695Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.76" etag="jqNpNZe6NzvGSx03Nq7d" version="22.0.8" type="github">
   <diagram name="Seite-1" id="6qD9MZQn9-AMvD67NnCY">
     <mxGraphModel dx="1379" dy="1607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -486,7 +486,7 @@
         <mxCell id="71A8havY9Krnc7ntaEhR-120" value="Energy" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Rubik light;fontSize=18;fillColor=default;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="999" y="380" width="79" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="71A8havY9Krnc7ntaEhR-121" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
+        <mxCell id="71A8havY9Krnc7ntaEhR-121" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="71A8havY9Krnc7ntaEhR-120">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1039" y="260" as="sourcePoint" />
             <mxPoint x="1039" y="300" as="targetPoint" />
