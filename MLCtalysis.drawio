@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-20T15:46:45.889Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="s4DZzs-pcokHv7K6briy" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-20T15:52:43.212Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="RRYf7zL6yzHKdfoFC910" version="22.1.3" type="github">
   <diagram name="Seite-1" id="R5NDOeXmMaofM5CvEvCr">
     <mxGraphModel dx="855" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="s9PK78JfT4W9NMTNqEp0-5" value="Potential Energy" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Rubik light;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="270" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="s9PK78JfT4W9NMTNqEp0-7" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s9PK78JfT4W9NMTNqEp0-1" target="s9PK78JfT4W9NMTNqEp0-5">
+        <mxCell id="s9PK78JfT4W9NMTNqEp0-7" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;rounded=1;endSize=8;startSize=8;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s9PK78JfT4W9NMTNqEp0-1" target="s9PK78JfT4W9NMTNqEp0-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="410" y="380" as="sourcePoint" />
             <mxPoint x="460" y="330" as="targetPoint" />
@@ -28,7 +28,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="s9PK78JfT4W9NMTNqEp0-8" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="s9PK78JfT4W9NMTNqEp0-1" target="s9PK78JfT4W9NMTNqEp0-5">
+        <mxCell id="s9PK78JfT4W9NMTNqEp0-8" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;rounded=1;endSize=8;startSize=8;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="s9PK78JfT4W9NMTNqEp0-1" target="s9PK78JfT4W9NMTNqEp0-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="150" y="250" as="sourcePoint" />
             <mxPoint x="340" y="250" as="targetPoint" />
@@ -42,6 +42,42 @@
         </mxCell>
         <mxCell id="s9PK78JfT4W9NMTNqEp0-10" value="Many-Body Potential" style="text;html=1;strokeColor=none;fillColor=#FFFFFF;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Rubik light;" vertex="1" parent="1">
           <mxGeometry x="206" y="303" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s9PK78JfT4W9NMTNqEp0-14" value="Forces" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Rubik light;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="440" y="180" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s9PK78JfT4W9NMTNqEp0-15" value="PES" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Rubik light;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="440" y="290" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s9PK78JfT4W9NMTNqEp0-16" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;rounded=1;endSize=8;startSize=8;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="s9PK78JfT4W9NMTNqEp0-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="250" as="sourcePoint" />
+            <mxPoint x="440" y="210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s9PK78JfT4W9NMTNqEp0-17" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;rounded=1;endSize=8;startSize=8;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="s9PK78JfT4W9NMTNqEp0-5" target="s9PK78JfT4W9NMTNqEp0-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="250" as="sourcePoint" />
+            <mxPoint x="450" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s9PK78JfT4W9NMTNqEp0-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="s9PK78JfT4W9NMTNqEp0-15" target="s9PK78JfT4W9NMTNqEp0-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="380" as="sourcePoint" />
+            <mxPoint x="460" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s9PK78JfT4W9NMTNqEp0-19" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="380" as="sourcePoint" />
+            <mxPoint x="460" y="330" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
