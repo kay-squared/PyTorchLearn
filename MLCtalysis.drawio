@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-20T15:45:39.524Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="ZqIPnIAqbIHVKPCkLZ1x" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-20T15:46:45.889Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="s4DZzs-pcokHv7K6briy" version="22.1.3" type="github">
   <diagram name="Seite-1" id="R5NDOeXmMaofM5CvEvCr">
     <mxGraphModel dx="855" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -36,6 +36,12 @@
               <mxPoint x="230" y="320" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="s9PK78JfT4W9NMTNqEp0-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAAJkAAAApCAMAAAARSHv9AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAABmUExURQAAAAAAAAgICBAQEBgYGCAgICgoKDAwMDg4OEBAQEhISFBQUFhYWGBgYGhoaHBwcHh4eH9/f4eHh4+Pj5eXl5+fn6enp6+vr7e3t7+/v8fHx8/Pz9fX19/f3+fn5+/v7/f39////38IRmEAAAABdFJOUwBA5thmAAAACXBIWXMAABcRAAAXEQHKJvM/AAAC4ElEQVRYR+2WW5eiMBCEbUbX+yrrlREv+f9/crq7KoCiDM6+5OzZ72HSlFhTJJ3gAISUYCZALQ2YCVBLA2YC1NKAmQC1NGAmQC0NmAlQSwNmAtTSgJkAtTRgJkAthN3U2FiZe3l0aaHXR7+eanWy8WL39Aa+kX2nJzMBV4xyJSLrs5WnmZa7ayinIiO9vmwzLXZaFSJZfrN7emO+madQNyk6PZkJuOKUIkOWR5GZjdfMXULQqFsb1WXuwhuor02NspHs1unJTICachL5zXLLL4URXZYiRxvVZenCG+h3VqjOMtG/HZ7MBKgpO5EDS10AX9amS2GjuuQuvIE+5h7VzSN2eDIToKZUcUKYygeKERf4b5I1fJ0OT2YC1JRx1WYhiys/EvExuux/kGwcH5N0eDIToKZTXcWxjuO92qU+RpdNbMD+RN8y58x1eDIToOaT+oeldob3pq/Ep43RJV5H9Bx4oLVBuFi3iVwhdHgyE6Dm0Rc5mEh00V3h+5Uut6Fk/AQwToNWMviuxzKm0OHJTIBaCPN4HtqJGF10L4idhnTRx7Ort5gzcjw6ujyZCVALYVjFuTae/PJLF+PsLuVR57Ky7w19F/X/f+3JTICanoLVHYe7Nt+P+czKsqTYH/X1tds2j45XnswEqFmc+FBrkRNLUBa6nzbFXYf1JfpevNtrnnoyE6Bmyx3DV+dsDXuiBRuzQdzfkYbvA088mQlQC5M6ThbfwDWvknFFGjzuzdr3Wtz/fOqZ7P6cXbOseJWsaPEwQQ3f1UOP9EzWeHnpAcQ3cM2rZN9S+16yhx7pmSyvN4B2ZiuFulSb/i3UF2a3aTV55IknMwFI12H1bLqYrTm76Mezn2xN8z3YIud6hvkv+YpnnswEXPn8sOa1n+f25lfiygL9iau0Nuz3wDdy12ZPPZkJUEsDZgLU0oCZALU0YCZALQ2YCVBLA2YC1NKAmQC1NGAmQC0NmOk//wyDwRc2jmMbumEBhwAAAABJRU5ErkJggg==;" vertex="1" parent="1">
+          <mxGeometry x="210" y="200" width="74.63" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="s9PK78JfT4W9NMTNqEp0-10" value="Many-Body Potential" style="text;html=1;strokeColor=none;fillColor=#FFFFFF;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Rubik light;" vertex="1" parent="1">
+          <mxGeometry x="206" y="303" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
