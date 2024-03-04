@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-04T20:37:47.616Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="Uzc1rnTgxLsV_86ULC-p" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-04T20:38:34.771Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="WHeYIHQC143SJQmnnvBL" version="24.0.1" type="github">
   <diagram name="Page-1" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
     <mxGraphModel dx="3590" dy="2178" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -29,10 +29,10 @@
           <mxGeometry x="-3" y="-270" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="2c924340bb9dbf6c-11" value="&lt;span&gt;Andritz:&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span&gt;tailored preconditioning&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&amp;nbsp;equipment&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;mechanical (shredders, mills) chemical thermal&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Rubik light;fontSize=12;align=center;arcSize=10;strokeColor=default;verticalAlign=middle;fontColor=default;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="369.5" y="-520" width="100" height="180" as="geometry" />
+          <mxGeometry x="390" y="-500" width="100" height="180" as="geometry" />
         </mxCell>
         <mxCell id="2c924340bb9dbf6c-14" value="&lt;span&gt;Andritz &amp;amp; Sundsvall; Infinited (flagship), CIRC (Virginia)&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Rubik light;fontSize=12;align=center;arcSize=10;strokeColor=default;verticalAlign=middle;fontColor=default;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="479.5" y="-440" width="100" height="160" as="geometry" />
+          <mxGeometry x="490" y="-400" width="100" height="160" as="geometry" />
         </mxCell>
         <mxCell id="2c924340bb9dbf6c-27" value="" style="edgeStyle=none;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#d6b656;strokeWidth=1;fontFamily=Rubik light;fontSize=12;fillColor=#fff2cc;" parent="1" source="2c924340bb9dbf6c-2" target="2c924340bb9dbf6c-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -162,7 +162,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MKfo8vcPE9JE-lZwbTAb-38" value="Polymer-Recyclings von Baumwolle (chem. Aufschluss)" style="whiteSpace=wrap;html=1;fontFamily=Rubik light;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-73" y="-760" width="150" height="60" as="geometry" />
+          <mxGeometry x="-100" y="-760" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MKfo8vcPE9JE-lZwbTAb-40" value="" style="edgeStyle=none;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#d79b00;strokeWidth=1;fontFamily=Rubik light;fontSize=12;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#ffe6cc;" edge="1" parent="1" target="MKfo8vcPE9JE-lZwbTAb-38">
           <mxGeometry relative="1" as="geometry">
@@ -292,7 +292,7 @@
           <mxGeometry x="1326.5" y="595.38" width="155" height="180" as="geometry" />
         </mxCell>
         <mxCell id="MKfo8vcPE9JE-lZwbTAb-76" value="Tex2Mat: Enzymatisch" style="whiteSpace=wrap;html=1;fontFamily=Rubik light;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="230" y="-460" width="120" height="60" as="geometry" />
+          <mxGeometry x="249" y="-450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MKfo8vcPE9JE-lZwbTAb-79" value="" style="edgeStyle=none;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#B3B3B3;strokeWidth=1;fontFamily=Rubik light;fontSize=12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2c924340bb9dbf6c-4" target="MKfo8vcPE9JE-lZwbTAb-58">
           <mxGeometry relative="1" as="geometry">
