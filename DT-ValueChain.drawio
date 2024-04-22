@@ -1,9 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2024-04-22T09:58:10.771Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" version="24.2.5" etag="yfo-gardvULdkGwPeUYm" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-22T10:09:40.023Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="hHC1TIVWswTHzdm6FaUK" version="24.2.5" type="github">
   <diagram name="Seite-1" id="RHk6YtNKrsqP3Cbn3scz">
-    <mxGraphModel>
+    <mxGraphModel dx="1881" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="TyCHVnKsmJeXHlTLCL_k-1" value="Feedstock" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fontFamily=Rubik light;" vertex="1" parent="1">
+          <mxGeometry y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TyCHVnKsmJeXHlTLCL_k-2" value="Processed Feedstock" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fontFamily=Rubik light;" vertex="1" parent="1">
+          <mxGeometry x="400" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TyCHVnKsmJeXHlTLCL_k-3" value="Molecules" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fontFamily=Rubik light;" vertex="1" parent="1">
+          <mxGeometry x="800" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TyCHVnKsmJeXHlTLCL_k-4" value="Materials" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fontFamily=Rubik light;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TyCHVnKsmJeXHlTLCL_k-5" value="Products" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fontFamily=Rubik light;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TyCHVnKsmJeXHlTLCL_k-6" value="Upstream: Preprocessing" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontFamily=Rubik light;" vertex="1" parent="1">
+          <mxGeometry x="160" y="170" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TyCHVnKsmJeXHlTLCL_k-8" value="Conversions" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontFamily=Rubik light;" vertex="1" parent="1">
+          <mxGeometry x="560" y="170" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TyCHVnKsmJeXHlTLCL_k-9" value="Downstream: Aufarbeitung" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontFamily=Rubik light;" vertex="1" parent="1">
+          <mxGeometry x="950" y="170" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TyCHVnKsmJeXHlTLCL_k-10" value="Manufacturing" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontFamily=Rubik light;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="170" width="200" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
