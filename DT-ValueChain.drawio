@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-22T10:34:23.590Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="oSvMAss5TjgBwPaeJLqq" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-22T10:36:05.634Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="e23nkiKF2ADaVPMRxTeE" version="24.2.5" type="github">
   <diagram name="Seite-1" id="RHk6YtNKrsqP3Cbn3scz">
-    <mxGraphModel dx="2177" dy="927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3064" dy="1293" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -59,22 +59,22 @@
           <mxGeometry x="1400" y="170" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TyCHVnKsmJeXHlTLCL_k-20" value="Crude oil" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Rubik light;fontSize=20;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="50" y="325" width="100" height="70" as="geometry" />
+          <mxGeometry x="50" y="313" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TyCHVnKsmJeXHlTLCL_k-21" value="Monomers" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Rubik light;fontSize=20;fillColor=default;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="440" y="325" width="120" height="70" as="geometry" />
+          <mxGeometry x="440" y="313" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TyCHVnKsmJeXHlTLCL_k-22" value="Refining" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Rubik light;" vertex="1" parent="1">
-          <mxGeometry x="190" y="333" width="200" height="40" as="geometry" />
+          <mxGeometry x="190" y="321" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TyCHVnKsmJeXHlTLCL_k-23" value="Polymers" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Rubik light;fontSize=20;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="839" y="325" width="120" height="70" as="geometry" />
+          <mxGeometry x="839" y="313" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TyCHVnKsmJeXHlTLCL_k-24" value="Compound (Plastics)&lt;div&gt;Composites&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Rubik light;fontSize=20;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1242" y="309" width="120" height="70" as="geometry" />
+          <mxGeometry x="1242" y="297" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TyCHVnKsmJeXHlTLCL_k-25" value="Bauteile&lt;div&gt;Textilien&lt;/div&gt;&lt;div&gt;etc&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Rubik light;fontSize=20;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1660" y="325" width="120" height="70" as="geometry" />
+          <mxGeometry x="1660" y="313" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TyCHVnKsmJeXHlTLCL_k-27" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Rubik light;fontSize=20;fontColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="180" y="150" width="220" height="80" as="geometry" />
@@ -137,13 +137,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TyCHVnKsmJeXHlTLCL_k-40" value="Polymerization&lt;div&gt;Polycondensation&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Rubik light;" vertex="1" parent="1">
-          <mxGeometry x="600" y="315" width="200" height="40" as="geometry" />
+          <mxGeometry x="600" y="303" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TyCHVnKsmJeXHlTLCL_k-41" value="Stabilizing&lt;div&gt;Additivation&lt;/div&gt;&lt;div&gt;Coloring&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Rubik light;" vertex="1" parent="1">
-          <mxGeometry x="981" y="319" width="200" height="40" as="geometry" />
+          <mxGeometry x="981" y="307" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TyCHVnKsmJeXHlTLCL_k-42" value="Injection Molding&lt;div&gt;Extrusion&lt;/div&gt;&lt;div&gt;Forming&lt;/div&gt;&lt;div&gt;Spinning&lt;/div&gt;&lt;div&gt;Weaving&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Rubik light;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="322" width="200" height="40" as="geometry" />
+          <mxGeometry x="1400" y="310" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TyCHVnKsmJeXHlTLCL_k-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Rubik light;fontSize=20;fontColor=default;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TyCHVnKsmJeXHlTLCL_k-43" target="TyCHVnKsmJeXHlTLCL_k-24">
           <mxGeometry relative="1" as="geometry">
@@ -200,7 +200,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TyCHVnKsmJeXHlTLCL_k-56" value="Feedstock Recycling (Cracking)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Rubik light;fontSize=20;fillColor=#f5f5f5;gradientColor=#E8E8E8;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="300" y="550" width="170" height="90" as="geometry" />
+          <mxGeometry x="200" y="530" width="170" height="90" as="geometry" />
         </mxCell>
         <mxCell id="TyCHVnKsmJeXHlTLCL_k-57" value="Depolymerisation&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Feedstock%20Recycling%20(Cracking)%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3BfontFamily%3DRubik%20light%3BfontSize%3D20%3BfillColor%3D%23f5f5f5%3BgradientColor%3D%23E8E8E8%3BstrokeColor%3D%23666666%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22300%22%20y%3D%22550%22%20width%3D%22170%22%20height%3D%2290%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Rubik light;fontSize=20;fillColor=#f5f5f5;gradientColor=#E8E8E8;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="590" y="510" width="170" height="60" as="geometry" />
