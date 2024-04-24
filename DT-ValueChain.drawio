@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-22T11:00:29.454Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="vgmAUFD_0pdyi0THsDHU" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-24T09:33:26.993Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="AMcOhM8XEilGhgQ5IZ0a" version="24.2.8" type="github">
   <diagram name="Seite-1" id="RHk6YtNKrsqP3Cbn3scz">
-    <mxGraphModel dx="2543" dy="1296" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1415" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,7 +26,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TyCHVnKsmJeXHlTLCL_k-4" value="Materials" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fontFamily=Rubik light;fillColor=#DAE8FC;strokeColor=#6c8ebf;gradientColor=#ADDCFF;" parent="1" vertex="1">
-          <mxGeometry x="1240" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="1242" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TyCHVnKsmJeXHlTLCL_k-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Rubik light;fontSize=20;fontColor=default;" parent="1" source="TyCHVnKsmJeXHlTLCL_k-5" target="TyCHVnKsmJeXHlTLCL_k-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -69,6 +69,9 @@
         </mxCell>
         <mxCell id="TyCHVnKsmJeXHlTLCL_k-23" value="Polymers" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Rubik light;fontSize=20;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="839" y="313" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KUORHeeIq1Z4SXbflX4e-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TyCHVnKsmJeXHlTLCL_k-24" target="TyCHVnKsmJeXHlTLCL_k-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TyCHVnKsmJeXHlTLCL_k-24" value="Compound (Plastics)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Rubik light;fontSize=20;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="1242" y="297" width="120" height="70" as="geometry" />
