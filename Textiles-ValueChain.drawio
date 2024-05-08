@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2024-05-06T08:32:19.761Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="3U07goPHYrrqdIVkQtIR" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-08T12:56:28.612Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="Yp7K2SoYQ81frcjJjpvc" version="24.3.1" type="github">
   <diagram name="Seite-1" id="RHk6YtNKrsqP3Cbn3scz">
-    <mxGraphModel dx="1695" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2407" dy="1310" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="QPUvbkzzXuG8csUcrq9f-1" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fillColor=#b1ddf0;strokeColor=#10739e;strokeWidth=3;" edge="1" parent="1" target="RWhHlL6VBqlrHxH2imEh-2">
+        <mxCell id="QPUvbkzzXuG8csUcrq9f-1" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fillColor=#b1ddf0;strokeColor=#10739e;strokeWidth=3;" parent="1" target="RWhHlL6VBqlrHxH2imEh-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1990" y="220" as="sourcePoint" />
             <mxPoint x="893" y="395" as="targetPoint" />
@@ -271,9 +271,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RWhHlL6VBqlrHxH2imEh-6" value="Thermo-Mechanical&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Rubik light;fontSize=20;fillColor=#f5f5f5;gradientColor=#E8E8E8;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="1261.5" y="500" width="200" height="40" as="geometry" />
+          <mxGeometry x="1164.5" y="500" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QPUvbkzzXuG8csUcrq9f-3" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.088;exitY=0.979;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#b1ddf0;strokeColor=#1598D1;strokeWidth=3;exitPerimeter=0;" edge="1" parent="1" source="TyCHVnKsmJeXHlTLCL_k-43" target="TyCHVnKsmJeXHlTLCL_k-24">
+        <mxCell id="QPUvbkzzXuG8csUcrq9f-3" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.088;exitY=0.979;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#b1ddf0;strokeColor=#1598D1;strokeWidth=3;exitPerimeter=0;" parent="1" source="TyCHVnKsmJeXHlTLCL_k-43" target="TyCHVnKsmJeXHlTLCL_k-24" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2010" y="240" as="sourcePoint" />
             <mxPoint x="1154" y="348" as="targetPoint" />
@@ -284,7 +284,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TyCHVnKsmJeXHlTLCL_k-59" value="Mechanical" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Rubik light;fontSize=20;fillColor=#f5f5f5;gradientColor=#E8E8E8;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="1771" y="467" width="170" height="40" as="geometry" />
+          <mxGeometry x="1395" y="467" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
