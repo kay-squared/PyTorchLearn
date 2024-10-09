@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="24.7.17">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="642" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="694" dy="1573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -209,7 +209,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FANMIz-VUArgThIN-32Q-81" value="data_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="FANMIz-VUArgThIN-32Q-79">
+        <mxCell id="FANMIz-VUArgThIN-32Q-81" value="&lt;span style=&quot;color: rgb(35, 110, 191); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;data_id&lt;/span&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="FANMIz-VUArgThIN-32Q-79">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -222,7 +222,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FANMIz-VUArgThIN-32Q-84" value="data_name" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="FANMIz-VUArgThIN-32Q-82">
+        <mxCell id="FANMIz-VUArgThIN-32Q-84" value="&lt;span style=&quot;color: rgb(35, 110, 191); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;data_name&lt;/span&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="FANMIz-VUArgThIN-32Q-82">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -235,7 +235,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FANMIz-VUArgThIN-32Q-87" value="data_source" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="FANMIz-VUArgThIN-32Q-85">
+        <mxCell id="FANMIz-VUArgThIN-32Q-87" value="&lt;span style=&quot;color: rgb(35, 110, 191); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;data_source&lt;/span&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="FANMIz-VUArgThIN-32Q-85">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -248,7 +248,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FANMIz-VUArgThIN-32Q-90" value="Responsible_person" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="FANMIz-VUArgThIN-32Q-88">
+        <mxCell id="FANMIz-VUArgThIN-32Q-90" value="&lt;span style=&quot;color: rgb(35, 110, 191); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;responsibilty&lt;/span&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="FANMIz-VUArgThIN-32Q-88">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -261,7 +261,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FANMIz-VUArgThIN-32Q-93" value="Start_date_of_collection" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="FANMIz-VUArgThIN-32Q-91">
+        <mxCell id="FANMIz-VUArgThIN-32Q-93" value="&lt;span style=&quot;color: rgb(35, 110, 191); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;start_date_of_collection&lt;/span&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="FANMIz-VUArgThIN-32Q-91">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -274,7 +274,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FANMIz-VUArgThIN-32Q-96" value="Preprocessed" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="FANMIz-VUArgThIN-32Q-94">
+        <mxCell id="FANMIz-VUArgThIN-32Q-96" value="&lt;span style=&quot;color: rgb(35, 110, 191); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;preprocessed&lt;/span&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="FANMIz-VUArgThIN-32Q-94">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -287,7 +287,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FANMIz-VUArgThIN-32Q-99" value="user" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="FANMIz-VUArgThIN-32Q-97">
+        <mxCell id="FANMIz-VUArgThIN-32Q-99" value="&lt;span style=&quot;color: rgb(35, 110, 191); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;user&lt;/span&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="FANMIz-VUArgThIN-32Q-97">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -385,6 +385,9 @@
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="FANMIz-VUArgThIN-32Q-123" value="&lt;div style=&quot;color: #236ebf;background-color: #ffffff;font-family: Consolas, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 14px;line-height: 19px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #236ebf;&quot;&gt;data_id &lt;/span&gt;&lt;span style=&quot;color: #7b30d0;font-style: italic;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #236ebf;&quot;&gt; models.CharField(&lt;/span&gt;&lt;span style=&quot;color: #b1108e;&quot;&gt;max_length&lt;/span&gt;&lt;span style=&quot;color: #7b30d0;font-style: italic;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #174781;&quot;&gt;100&lt;/span&gt;&lt;span style=&quot;color: #236ebf;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #b1108e;&quot;&gt;unique&lt;/span&gt;&lt;span style=&quot;color: #7b30d0;font-style: italic;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #2970c7;&quot;&gt;True&lt;/span&gt;&lt;span style=&quot;color: #236ebf;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #236ebf;&quot;&gt;&amp;nbsp; &amp;nbsp; data_name &lt;/span&gt;&lt;span style=&quot;color: #7b30d0;font-style: italic;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #236ebf;&quot;&gt; models.CharField(&lt;/span&gt;&lt;span style=&quot;color: #b1108e;&quot;&gt;max_length&lt;/span&gt;&lt;span style=&quot;color: #7b30d0;font-style: italic;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #174781;&quot;&gt;200&lt;/span&gt;&lt;span style=&quot;color: #236ebf;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #236ebf;&quot;&gt;&amp;nbsp; &amp;nbsp; data_source &lt;/span&gt;&lt;span style=&quot;color: #7b30d0;font-style: italic;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #236ebf;&quot;&gt; models.CharField(&lt;/span&gt;&lt;span style=&quot;color: #b1108e;&quot;&gt;max_length&lt;/span&gt;&lt;span style=&quot;color: #7b30d0;font-style: italic;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #174781;&quot;&gt;100&lt;/span&gt;&lt;span style=&quot;color: #236ebf;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #b1108e;&quot;&gt;choices&lt;/span&gt;&lt;span style=&quot;color: #7b30d0;font-style: italic;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #2970c7;&quot;&gt;DATA_CHOICES&lt;/span&gt;&lt;span style=&quot;color: #236ebf;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #236ebf;&quot;&gt;&amp;nbsp; &amp;nbsp; responsibilty &lt;/span&gt;&lt;span style=&quot;color: #7b30d0;font-style: italic;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #236ebf;&quot;&gt; models.CharField(&lt;/span&gt;&lt;span style=&quot;color: #b1108e;&quot;&gt;max_length&lt;/span&gt;&lt;span style=&quot;color: #7b30d0;font-style: italic;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #174781;&quot;&gt;200&lt;/span&gt;&lt;span style=&quot;color: #236ebf;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #236ebf;&quot;&gt;&amp;nbsp; &amp;nbsp; start_date_of_collection &lt;/span&gt;&lt;span style=&quot;color: #7b30d0;font-style: italic;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #236ebf;&quot;&gt; models.DateField()&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #236ebf;&quot;&gt;&amp;nbsp; &amp;nbsp; preprocessed &lt;/span&gt;&lt;span style=&quot;color: #7b30d0;font-style: italic;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #236ebf;&quot;&gt; models.BooleanField()&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #236ebf;&quot;&gt;&amp;nbsp; &amp;nbsp; user &lt;/span&gt;&lt;span style=&quot;color: #7b30d0;font-style: italic;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #236ebf;&quot;&gt; models.ForeignKey(User, &lt;/span&gt;&lt;span style=&quot;color: #b1108e;&quot;&gt;on_delete&lt;/span&gt;&lt;span style=&quot;color: #7b30d0;font-style: italic;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #236ebf;&quot;&gt;models.&lt;/span&gt;&lt;span style=&quot;color: #2970c7;&quot;&gt;CASCADE&lt;/span&gt;&lt;span style=&quot;color: #236ebf;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #b1108e;&quot;&gt;null&lt;/span&gt;&lt;span style=&quot;color: #7b30d0;font-style: italic;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #2970c7;&quot;&gt;True&lt;/span&gt;&lt;span style=&quot;color: #236ebf;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="-180" width="560" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
