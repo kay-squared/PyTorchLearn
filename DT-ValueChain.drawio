@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-24T09:33:26.993Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="AMcOhM8XEilGhgQ5IZ0a" version="24.2.8" type="github">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="24.8.4">
   <diagram name="Seite-1" id="RHk6YtNKrsqP3Cbn3scz">
-    <mxGraphModel dx="1415" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1206" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,13 +43,13 @@
         <mxCell id="TyCHVnKsmJeXHlTLCL_k-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TyCHVnKsmJeXHlTLCL_k-8" target="TyCHVnKsmJeXHlTLCL_k-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TyCHVnKsmJeXHlTLCL_k-8" value="Conversions" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontFamily=Rubik light;" parent="1" vertex="1">
+        <mxCell id="TyCHVnKsmJeXHlTLCL_k-8" value="Chemical Conversions" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontFamily=Rubik light;" parent="1" vertex="1">
           <mxGeometry x="600" y="170" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TyCHVnKsmJeXHlTLCL_k-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TyCHVnKsmJeXHlTLCL_k-9" target="TyCHVnKsmJeXHlTLCL_k-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TyCHVnKsmJeXHlTLCL_k-9" value="Downstream: Aufarbeitung" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontFamily=Rubik light;" parent="1" vertex="1">
+        <mxCell id="TyCHVnKsmJeXHlTLCL_k-9" value="Compounding" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontFamily=Rubik light;" parent="1" vertex="1">
           <mxGeometry x="990" y="170" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TyCHVnKsmJeXHlTLCL_k-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TyCHVnKsmJeXHlTLCL_k-10" target="TyCHVnKsmJeXHlTLCL_k-5" edge="1">
@@ -61,7 +61,7 @@
         <mxCell id="TyCHVnKsmJeXHlTLCL_k-20" value="Crude oil" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Rubik light;fontSize=20;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="50" y="313" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="TyCHVnKsmJeXHlTLCL_k-21" value="Monomers" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Rubik light;fontSize=20;fillColor=default;strokeColor=default;" parent="1" vertex="1">
+        <mxCell id="TyCHVnKsmJeXHlTLCL_k-21" value="Monomers, Base chemicals" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Rubik light;fontSize=20;fillColor=default;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="440" y="313" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TyCHVnKsmJeXHlTLCL_k-22" value="Refining" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Rubik light;" parent="1" vertex="1">
@@ -70,11 +70,11 @@
         <mxCell id="TyCHVnKsmJeXHlTLCL_k-23" value="Polymers" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Rubik light;fontSize=20;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="839" y="313" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="KUORHeeIq1Z4SXbflX4e-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TyCHVnKsmJeXHlTLCL_k-24" target="TyCHVnKsmJeXHlTLCL_k-4">
+        <mxCell id="KUORHeeIq1Z4SXbflX4e-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TyCHVnKsmJeXHlTLCL_k-24" target="TyCHVnKsmJeXHlTLCL_k-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TyCHVnKsmJeXHlTLCL_k-24" value="Compound (Plastics)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Rubik light;fontSize=20;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="1242" y="297" width="120" height="70" as="geometry" />
+          <mxGeometry x="1242" y="310" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TyCHVnKsmJeXHlTLCL_k-25" value="Bauteile&lt;div&gt;Composites&lt;br&gt;&lt;div&gt;Textilien&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Rubik light;fontSize=20;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="1648" y="313" width="120" height="70" as="geometry" />
@@ -86,7 +86,7 @@
           <mxGeometry x="581" y="150" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TyCHVnKsmJeXHlTLCL_k-30" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Rubik light;fontSize=20;fontColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="971" y="150" width="220" height="80" as="geometry" />
+          <mxGeometry x="971" y="149" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TyCHVnKsmJeXHlTLCL_k-31" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Rubik light;fontSize=20;fontColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="1381" y="150" width="220" height="80" as="geometry" />
@@ -140,10 +140,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TyCHVnKsmJeXHlTLCL_k-40" value="Polymerization&lt;div&gt;Polycondensation&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Rubik light;" parent="1" vertex="1">
-          <mxGeometry x="600" y="303" width="200" height="40" as="geometry" />
+          <mxGeometry x="600" y="321" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TyCHVnKsmJeXHlTLCL_k-41" value="Stabilizing&lt;div&gt;Additivation&lt;/div&gt;&lt;div&gt;Coloring&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Rubik light;" parent="1" vertex="1">
-          <mxGeometry x="981" y="307" width="200" height="40" as="geometry" />
+        <mxCell id="TyCHVnKsmJeXHlTLCL_k-41" value="Additives&lt;div&gt;Fillers&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Rubik light;" parent="1" vertex="1">
+          <mxGeometry x="981" y="327" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TyCHVnKsmJeXHlTLCL_k-42" value="Injection Molding&lt;div&gt;Extrusion&lt;/div&gt;&lt;div&gt;Forming&lt;/div&gt;&lt;div&gt;Spinning&lt;/div&gt;&lt;div&gt;Weaving&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Rubik light;" parent="1" vertex="1">
           <mxGeometry x="1400" y="310" width="200" height="40" as="geometry" />
