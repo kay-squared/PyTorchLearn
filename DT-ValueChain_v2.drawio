@@ -108,32 +108,32 @@
         </mxCell>
         <mxCell id="TyCHVnKsmJeXHlTLCL_k-35" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontFamily=Rubik light;fontSize=20;fontColor=default;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="799" y="440" as="sourcePoint" />
-            <mxPoint x="799" y="240" as="targetPoint" />
+            <mxPoint x="819" y="440" as="sourcePoint" />
+            <mxPoint x="819" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TyCHVnKsmJeXHlTLCL_k-36" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontFamily=Rubik light;fontSize=20;fontColor=default;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="985" y="440" as="sourcePoint" />
-            <mxPoint x="985" y="240" as="targetPoint" />
+            <mxPoint x="979" y="440" as="sourcePoint" />
+            <mxPoint x="979" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TyCHVnKsmJeXHlTLCL_k-37" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontFamily=Rubik light;fontSize=20;fontColor=default;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1188" y="440" as="sourcePoint" />
-            <mxPoint x="1188" y="240" as="targetPoint" />
+            <mxPoint x="1209" y="440" as="sourcePoint" />
+            <mxPoint x="1209" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TyCHVnKsmJeXHlTLCL_k-38" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontFamily=Rubik light;fontSize=20;fontColor=default;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1399" y="440" as="sourcePoint" />
-            <mxPoint x="1399" y="240" as="targetPoint" />
+            <mxPoint x="1384" y="440" as="sourcePoint" />
+            <mxPoint x="1384" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TyCHVnKsmJeXHlTLCL_k-39" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontFamily=Rubik light;fontSize=20;fontColor=default;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1603" y="440" as="sourcePoint" />
-            <mxPoint x="1603" y="240" as="targetPoint" />
+            <mxPoint x="1617" y="440" as="sourcePoint" />
+            <mxPoint x="1617" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TyCHVnKsmJeXHlTLCL_k-40" value="Polymerization&lt;div&gt;Polycondensation&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Rubik light;" parent="1" vertex="1">
@@ -142,7 +142,7 @@
         <mxCell id="TyCHVnKsmJeXHlTLCL_k-41" value="Additives&lt;div&gt;Fillers&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Rubik light;" parent="1" vertex="1">
           <mxGeometry x="981" y="284" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TyCHVnKsmJeXHlTLCL_k-42" value="Injection Molding&lt;div&gt;Compression Molding&lt;br&gt;&lt;div&gt;Extrusion&lt;/div&gt;&lt;div&gt;Forming&lt;/div&gt;&lt;div&gt;Spinning&lt;/div&gt;&lt;div&gt;Weaving&lt;/div&gt;&lt;/div&gt;&lt;div&gt;etc.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Rubik light;" parent="1" vertex="1">
+        <mxCell id="TyCHVnKsmJeXHlTLCL_k-42" value="Injection Molding&lt;div&gt;Compression Molding&lt;br&gt;&lt;div&gt;Extrusion&lt;/div&gt;&lt;div&gt;Forming&lt;/div&gt;&lt;div&gt;Spinning,&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Weaving&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Assembly,&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Printing&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Rubik light;" parent="1" vertex="1">
           <mxGeometry x="1400" y="320" width="200" height="43" as="geometry" />
         </mxCell>
         <mxCell id="TyCHVnKsmJeXHlTLCL_k-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Rubik light;fontSize=20;fontColor=default;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
