@@ -1,9 +1,18 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="26.0.11">
   <diagram name="Seite-1" id="VnFKzgJm7W-eYxj4gM6O">
-    <mxGraphModel>
+    <mxGraphModel dx="1744" dy="863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="KPCqCwS25LnUDxmx4rFF-1" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=55;" vertex="1" parent="1">
+          <mxGeometry x="590" y="80" width="210" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="KPCqCwS25LnUDxmx4rFF-3" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=55;rotation=120;" vertex="1" parent="1">
+          <mxGeometry x="820" y="170" width="210" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="KPCqCwS25LnUDxmx4rFF-4" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=55;rotation=240;" vertex="1" parent="1">
+          <mxGeometry x="620" y="300" width="210" height="180" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
